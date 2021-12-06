@@ -3,7 +3,7 @@
 
 ## software
 
-+ remote desktop
++ [remote desktop](remotedesktop.teleoperator.net)
 + screen shareing
 + hdmi to IP
 + screen to IP lan
