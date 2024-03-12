@@ -7,14 +7,14 @@
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
 + [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
-+ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
-+ [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing](http://leadership.run/SERVICE)
-+ [Software-Centric Solutions - Deployment Delivery: Dialogware](http://leadership.run/SOFTWARE)
-+ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURE)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring](http://www.incidents.info)
++ [Interface-Centric Solutions - INTERFACE audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Service-Centric Solutions - SaaSisKing.com - Software Requirements](http://www.SaaSisKing.com)
++ [Software-Centric Solutions - Dialogware.com - Modular Software](http://docs.Dialogware.com/SOFTWARE)
++ [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
++ [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
 
 + [SDLC: softreck.dev](http://leadership.run/SDLC)
+
 
 
 
@@ -25,18 +25,6 @@
 Agent: Interface Driven Approach
 
     Interface DSL API Process Operation Service infrastructure
-
-## Menu
-
-+ [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
-+ [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](FOUNDATION.md)
-+ [Agent-Centric Solutions - agent services: TeleOperator.info Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
-+ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](INTERFACE.md)
-+ [Process-Centric Solutions - Automation](PROCESS.md)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
-+ [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
-+ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info](SECURITY.md)
 
 
 ## Gaiann
@@ -289,6 +277,165 @@ taskreplika.com
 
 
 Zdalna replikacja zadań odnosi się do procesu, w którym zadania wykonywane są na odległość przez zdalny zespół lub dostawcę usług. Istnieje pewien wzorzec, w którym określone zadania, operacje lub procesy są duplikowane, replikowane i wykonywane zdalnie przez inny podmiot. Dzięki temu można osiągnąć większą wydajność, elastyczność i skalowalność, umożliwiając jednoczesne działanie i świadczenie usług na niezależnych systemach. Zdalna replikacja zadań pozwala na optymalizację wykorzystania zasobów oraz zapewnienie ciągłości działania, szczególnie w przypadku modeli subskrypcji, w których zadania są replikowane na bieżąco w celu zapewnienia zgodności i świadczenia usług na poziomie oczekiwań klienta.
+
+
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+# Process Centric Solutions
+
+Process: Standards Driven Approach
+
+### Process Automation - [Edi Chat](http://www.edichat.com)
+
+Automate Tasks through Sentences
++ Text To **Command**
+
+
++ api integrations, sources
+  + ssh
+  + browser
+  + email
++ channel communications
+  + chat: telegram, signal
++ Format:
+  + Sentences 
+  + apiMacro - YAML scenario written
+  + apiDSL - DSL language
++ Software
+  + poloshell.com
+  + pologos.com
+
+
+
+### Role Delegation, Process Outsourcing [sub.actor](http://www.subactor.com)
+
+Delegowanie usług, procesów, ról
+usługa świadczona przez partnerów na zasadzie delegowania zadań dla podaktorów w organizacjach, projektach, zadaniach. Istotą jest umawianie się na kooperację w przyjętej roli a nie tylko w zakresie zadań.
+
+
+### Task Automation - [Gaiann - Personal worker to automate PC-based tasks](https://www.gaiann.com/)  
+
+Automate Work through Checklist
+Text To **Task**
++ blog: aipersonalisation.com - AI personalisation -
++ SaaS based on edichat.com with: audio and video extensions
++ Vision Assistant - do.camera
++ Voice Controlled - voco.cam
+
+   
+          
+      
+
+### Vision Assistant - [do.camera](http://www.do.camera)
+
+Camera, Speech for Human Integration. 
+Human sensor: Eye, Ear 
++ Video To **Eye**
++ Voice To **Command**
+
++ teleoperator.net - hybrid communication asistant
+  + cameramind.com - cameramind  
+  + vocamera.com - vocamera
+    + VoCoCam.com - VoCoCam      
+    
+
+
+
+
+
+### Digital Twin Generator - [Twinizer](http://www.twinizer.com)
++ digitalTwin.run
+  
+Based on hitorical connection and Data 
++ App, env Definition - apiMacro.com
++ Data Multi Format Specification - ndof.org 
++ Module Definition - MetaModule.org
+
+
+
+
+### Search Engine - [Browseen - Search Engine for Service Improvement](http://www.browseen.com)
++ websearch.pl
++ [github browseen](https://github.com/browseen)
+
+
+#### Pricing
+
+- Płatne - asystent do przeprowadzenia optymalizacji infry
+  - RODO
+  - Cookies
+  - TLS
+  - zmiana providera, kosztów
+  - oprogramowanie bazujace na Faas
+  
+(browseek.com)
+pricing.
+roadmap.
+docs.
+www.
+- Płatne, on demand, online 10USD/rok
+
+Prywatne i online:
++ Skaner portfolio z API:
+  + gitlab
+  + githab
+Data processing, Elastic Search
+
+
+
+#### Tech stack
+
+Data Visualisation, elastic search
+Software:
++ apiMACRO
++ apiRPC
+
+
+
+
+Jak przekształcić codzienne powtarzalne zadania w maszynę do zarabiania?
+
+Prowadząc własną działalność, zauważyliśmy, że wykonujemy bardzo dużą ilość powtarzalnej pracy.
+
+Z jednej strony ta rutyna pochłaniała znaczną część naszego cennego czasu.
+A z drugiej, nie mogliśmy skupić się na wzroście organizacji…
+
+Postanowiliśmy powiedzieć temu DOŚĆ i zaczęliśmy automatyzować własne procesy.
+
+Zauważyliśmy, że możemy też pomóc innym przedsiębiorcom i tak się zaczęło.
+
+Zoptymalizowaliśmy własne procesy i procesy w organizacjach naszych klientów, dzięki czemu oszczędziliśmy kilka tysięcy godzin pracy
+
+
+Być może myślałeś o tym, aby zautomatyzować procesy biznesowe w swojej firmie, jednak na samą myśl boli Cię głowa? A może nie masz pojęcia, od czego zacząć?
+
+Spokojnie! Nie musisz znać się na automatyzacji, aby zwiększyć przychody i zostawić konkurencję daleeeko w tyle.
+
+
+Każdego dnia pomagamy naszym klientom w zwiększaniu przychodów i efektywności za pomocą automatyzacji.
+
+Zawsze w pierwszej kolejności wspólnie przechodzimy przez konsultację, aby poznać Twoje procesy biznesowe i poprawność wykorzystania narzędzi.
+
+Chętnie pomożemy w mapowaniu procesów oraz doradzimy najbardziej efektywne narzędzia i rozwiązania dla Ciebie.
+
+Jesteśmy długofalowymi partnerami w zmianach technologicznych firmy. 
+Nasze współprace są długofalowe z gwarancją.
+
+Jeśli chcesz wdrożyć wydajny i zautomatyzowany system, aby zaoszczędzić czas i zasoby, ale także zwiększyć wydajność i skalowalność swojego biznesu…
+
+Umów się na bezpłatną konsultację, podczas której wspólnie określimy, jak najlepiej usprawnić Twoje procesy operacyjne
+
 
 
 
