@@ -9,7 +9,7 @@
 + [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
 + [Interface-Centric Solutions - INTERFACE audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
 + [Service-Centric Solutions - SaaSisKing.com - Software Requirements](http://www.SaaSisKing.com)
-+ [Software-Centric Solutions - Dialogware.com - Modular Software](http://docs.Dialogware.com/SOFTWARE)
++ [Software-Centric Solutions - text.to.software - Modular Software](http://text.to.software)
 + [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
 + [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
 
