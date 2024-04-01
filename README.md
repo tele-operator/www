@@ -1,3 +1,5 @@
+![image](https://github.com/tele-operator/www/assets/5669657/cbf45cce-4e0f-4207-817e-9826aa375d1c)
+
 # [teleOperator.org](http://www.teleoperator.org)
 
 
